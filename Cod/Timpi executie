@@ -1,0 +1,20 @@
+NEOPT SOLVER
+Run=./neopt: N=200 - Time=0.169884
+Run=./neopt: N=400 - Time=1.035024
+Run=./neopt: N=800 - Time=8.256198
+Run=./neopt: N=1200 - Time=28.900076
+Run=./neopt: N=1600 - Time=97.214600
+
+OPT SOLVER
+Run=./opt: N=200 - Time=0.071030
+Run=./opt: N=400 - Time=0.332529
+Run=./opt: N=800 - Time=2.562476
+Run=./opt: N=1200 - Time=8.617030
+Run=./opt: N=1600 - Time=20.503532
+
+BLAS SOLVER
+Run=./blas: N=200: Time=0.004747
+Run=./blas: N=400: Time=0.036089
+Run=./blas: N=800: Time=0.111179
+Run=./blas: N=1200: Time=0.287569
+Run=./blas: N=1600: Time=0.663836
